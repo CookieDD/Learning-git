@@ -40,3 +40,11 @@ Undo actions:
 
 PULL Request:
         git pull
+To view the log:
+        git log
+        copy the log hash: git log hash -> to see the details
+
+
+BRANCH：
+        A Branch represents an independent line of development
+        main branch is basically equivalent to master branch
