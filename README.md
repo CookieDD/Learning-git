@@ -36,3 +36,7 @@ Undo actions:
 4. Once PUSHED:
       git reset --heard HEAD^
       git push -f
+
+
+PULL Request:
+        git pull
